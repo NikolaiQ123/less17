@@ -1,1 +1,1 @@
-print('Hello_world') 
+gprint('Hello_world')
